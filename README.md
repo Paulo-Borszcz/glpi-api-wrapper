@@ -56,7 +56,7 @@ go mod tidy
 
 > **Dica**: Certifique-se de ter o Go instalado em sua máquina antes de prosseguir!
 
-## ⚙Configuração
+## Configuração
 
 <details>
 <summary><b>Configurar Credenciais (Clique para expandir)</b></summary>
